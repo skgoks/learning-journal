@@ -14,4 +14,4 @@ Goals
 - Document technical knowledge  
 
 Contact
-- Email: your-email@example.com
+- Email: sk.gokv@gmail.com
